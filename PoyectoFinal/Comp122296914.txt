@@ -1,0 +1,6 @@
+*** Comprobante ***
+Nombre : joshua ulloa
+Numero de referencia: 122296914
+Monto: 5000
+Fecha: 24/8/2023
+Detalle: sushi
